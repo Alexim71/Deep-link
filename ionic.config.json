@@ -1,0 +1,7 @@
+{
+  "name": "Deep-linkSmartPAY",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
